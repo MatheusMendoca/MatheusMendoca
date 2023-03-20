@@ -13,9 +13,7 @@
 <div>
 <a href="https://github.com/karollayneer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMendoca&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMendoca&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMendoca&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>  
 </div>
     
 <div style="display-block"><br/>
