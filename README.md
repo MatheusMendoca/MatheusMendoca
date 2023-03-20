@@ -14,6 +14,8 @@
 <a href="https://github.com/karollayneer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMendoca&layout=compact&langs_count=7&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMendoca&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    
+![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
 </div>
     
 <div style="display-block"><br/>
@@ -21,5 +23,5 @@
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-    ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
 </div>
+
